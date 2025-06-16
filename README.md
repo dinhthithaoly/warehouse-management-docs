@@ -25,4 +25,4 @@ This project focuses on designing a Warehouse Management System (WMS) for Vissan
 - **Collaboration**: Zalo, Google Meet  
 
 ## Documentation
-You can find the full analysis & design documents and diagrams in this repository: [`Documents`](./Documents)
+You can find the full analysis & design documents and diagrams in this repository: [`Documents`](./Documents/warehouse-management-docs.doc)
